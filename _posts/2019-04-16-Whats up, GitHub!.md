@@ -6,6 +6,6 @@ published: true
 
 -Ernest Hemingway
 
-From this quote, I use, to test the <http://prose.io> to test online creation of new blog posts for the github hosted blog. If this works and you are able to see the post being rendered, then, I think I am off to a good start.
+From this quote, I use, to test the [Prose](http://prose.io) to test online creation of new blog posts for the github hosted blog. If this works and you are able to see the post being rendered, then, I think I am off to a good start.
 
 Thanks & Keep in touch.
