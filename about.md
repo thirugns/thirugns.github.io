@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-Still figuring out what to boast about in this sectio.
+Still figuring out what to boast about in this section.
 
 ### More Information
 
