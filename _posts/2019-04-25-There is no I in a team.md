@@ -7,4 +7,4 @@ So off the unlikely threesome went, flying south over the countryside. It was qu
 
 Someone said, "It's wonderful! Who was so clever to discover such a fine way to travel?" Whereupon the frog opened his mouth and said, "It was I," as he plummeted to the earth.
 
-Join the group for quick reads everyday
+Join the group for quick reads delivered to your phone everyday: http://bit.ly/DailyReads
